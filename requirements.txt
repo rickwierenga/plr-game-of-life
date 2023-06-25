@@ -1,0 +1,3 @@
+git+https://rickwierenga@github.com/pylabrobot/pylabrobot.git@ab9572a922c29b119178dbb70f02b26cc259c0d4#egg=PyLabRobot
+pylibftdi==0.20.0
+pyusb==1.2.1
