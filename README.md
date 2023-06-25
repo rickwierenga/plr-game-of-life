@@ -2,7 +2,7 @@
 
 This repository implements Conway's Game of Life, on a liquid handling robot and plate reader using [PyLabRobot](https://github.com/PyLabRobot/PyLabRobot).
 
-TODO: Upload video
+Video trailer: https://www.youtube.com/watch?v=5DN_hhcIxLE
 
 The state of the game is saved only on the plate. You start the game by manually pipetting a seed state onto the plate.
 
